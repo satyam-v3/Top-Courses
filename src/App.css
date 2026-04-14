@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bgDark: oklch(25.7% 0.09 281.288); 
+  --color-bgDark2:oklch(67.3% 0.182 276.935);
+}
